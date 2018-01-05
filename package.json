@@ -1,0 +1,10 @@
+{
+  "name": "LoveBank",
+  "version": "1.0.0",
+  "description": "LoveBank count shell",
+  "homepage": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql": "^2.15.0",
+  }
+}
