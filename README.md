@@ -1,5 +1,7 @@
 # The LoveBank Test Bounty Program 
 
+[LOVEBANK](http://lovebank.co/):
+
 Thank you everyone for your participation!! Please stay tuned for rewards!
 
 LoveBank recognizes the importance of security researchers in keeping our community safe and fun. With the launch of LoveBank around the corner, we would love the community to help provide disclosure of security vulnerabilities via our bounty program described below.
