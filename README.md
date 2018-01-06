@@ -1,6 +1,6 @@
 # The LoveBank Test Bounty Program 
 
-[LOVEBANK](http://lovebank.co/):
+[LOVEBANK](http://lovebank.co/)
 
 Thank you everyone for your participation!! Please stay tuned for rewards!
 
