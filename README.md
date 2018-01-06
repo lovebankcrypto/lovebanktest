@@ -1,5 +1,5 @@
 # The LoveBank Test Bounty Program 
-***
+
 Thank you everyone for your participation!! Please stay tuned for rewards!
 
 LoveBank recognizes the importance of security researchers in keeping our community safe and fun. With the launch of LoveBank around the corner, we would love the community to help provide disclosure of security vulnerabilities via our bounty program described below.
@@ -46,7 +46,7 @@ This bounty program will run from **12:01am GMT January 6th - 11:59pm GMT Janua
 
 The value of rewards paid out will vary depending on Severity which is calculated based on Impact and Likelihood as followed by [OWASP](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology):
 
-**Note: Rewards are at the sole discretion of the LB Team. 1 point currently corresponds to 0.1 USD (paid in ETH). All the people on our leaderboard of accepted bugs will receive a limited avatar WhiteHat available only to successful participants in this bounty program.
+**Note: Rewards are at the sole discretion of the LB Team. 1 point currently corresponds to 0.1 USD (paid in ETH). All the people on our leaderboard of accepted bugs will receive a limited avatar WhiteHat available only to successful participants in this bounty program.**
 
 ![Github](https://github.com/lovebankcrypto/lovebanktest/blob/master/owasp_w600.png)
 
